@@ -1,6 +1,6 @@
 # Мета роботи
 
-Розібрати принципи та базові команди для роботи з git. Створити опис для свого акаунта GitHub.
+Розуміння принципів роботи з git та основних команд; створення опису свого облікового запису на GitHub; розуміння того, як користуватися git та як використовувати його для створення облікового запису на GitHub; розуміння того, як використовувати git для створення облікового запису на GitHub.
 
 # Хід роботи
 
@@ -24,13 +24,13 @@ choco install git -y
 
 4. Налаштувати гіт за своїми даними:
 ```
-git config --global user.name "MykolaOverko"
-git config --global user.email m.v.overko@student.khai.edu
+git config --global user.name "Kuach"
+git config --global user.email weedprohp3112@gmail.com
 ```
 
 5. Згенерувати новий SSH ключ:
 ```
-ssh-keygen -t ed25519 -C "m.v.overko@student.khai.edu"
+ssh-keygen -t ed25519 -C "weedprohp3112@gmail.com"
 ```
 
 Ключ було згенеровано за шляхом "H:\orchad\work\.ssh\" у файлі id_ed25519.pub
