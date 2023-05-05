@@ -1,12 +1,12 @@
 # Мета роботи
 
-розуміння принципів роботи з git та основних команд; створення опису свого облікового запису на GitHub; розуміння того, як користуватися git та як використовувати його для створення облікового запису на GitHub; розуміння того, як використовувати git для створення облікового запису на GitHub..
+Розібрати принципи та базові команди для роботи з git. Створити опис для свого акаунта GitHub.
 
 # Хід роботи
 
 1. Створити обліковий запис GitHub
 
-![]([account.png](https://avatars.githubusercontent.com/u/132283554?s=400&u=28a9009c4f7dc58e1c511693a0a7ad589a39a704&v=4))
+![](account.png)
 
 2. Встановити CHOCOLATEY за допомогою powershell:
 ```
@@ -24,13 +24,13 @@ choco install git -y
 
 4. Налаштувати гіт за своїми даними:
 ```
-git config --global user.name "Kuach"
-git config --global user.email weedprohp3112@gmail.com
+git config --global user.name "MykolaOverko"
+git config --global user.email m.v.overko@student.khai.edu
 ```
 
 5. Згенерувати новий SSH ключ:
 ```
-ssh-keygen -t ed25519 -C "weedprohp3112@gmail.com"
+ssh-keygen -t ed25519 -C "m.v.overko@student.khai.edu"
 ```
 
 Ключ було згенеровано за шляхом "H:\orchad\work\.ssh\" у файлі id_ed25519.pub
