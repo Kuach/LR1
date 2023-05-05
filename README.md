@@ -44,7 +44,7 @@ ssh-keygen -t ed25519 -C "weedprohp3112@gmail.com"
 ![](repository.png)
 
 8. Склонувати репозиторій за допомогою git clone на локальний пк та відредагувати README.md:
-
+Kuach/Kuach.git
 ![](readme.png)
 
 9. Завантажити опис профілю:
