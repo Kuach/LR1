@@ -6,7 +6,7 @@
 
 1. Створити обліковий запис GitHub
 
-![](account.png)
+![]([account.png](https://avatars.githubusercontent.com/u/132283554?s=400&u=28a9009c4f7dc58e1c511693a0a7ad589a39a704&v=4))
 
 2. Встановити CHOCOLATEY за допомогою powershell:
 ```
